@@ -49,4 +49,5 @@
     <!-- App bar -->
     <color name="appbar">#1E1E1E</color>
     <color name="fontAppbar">@android:color/white</color>
+    <color name="gatxan_cloud_turquesa">#00cbc8</color>
 </resources>

@@ -263,9 +263,9 @@
     <string name="ecosystem_apps_display_more">Más</string>
     <string name="ecosystem_apps_display_notes">Notas</string>
     <string name="ecosystem_apps_display_talk">Talk</string>
-    <string name="ecosystem_apps_more">Más apps de Nextcloud</string>
-    <string name="ecosystem_apps_notes">Nextcloud Notas</string>
-    <string name="ecosystem_apps_talk">Nextcloud Talk</string>
+    <string name="ecosystem_apps_more">Más apps de Gatxan Cloud</string>
+    <string name="ecosystem_apps_notes">Gatxan Cloud Notas</string>
+    <string name="ecosystem_apps_talk">Gatxan Cloud Talk</string>
     <string name="email_pick_failed">Error al seleccionar dirección de correo.</string>
     <string name="encrypted">Establecer como cifrado</string>
     <string name="end_to_end_encryption_confirm_button">Configurar cifrado</string>
@@ -364,7 +364,7 @@
     <string name="file_migration_cleaning">Limpiando…</string>
     <string name="file_migration_dialog_title">Actualizando carpeta de almacenamiento de datos</string>
     <string name="file_migration_directory_already_exists">La carpeta de datos ya existe. Escoge una de las siguientes opciones:</string>
-    <string name="file_migration_failed_dir_already_exists">La carpeta de Nextcloud ya existe</string>
+    <string name="file_migration_failed_dir_already_exists">La carpeta de Gatxan Cloud ya existe</string>
     <string name="file_migration_failed_not_enough_space">Se necesita más espacio</string>
     <string name="file_migration_failed_not_readable">No se ha podido leer el archivo origen</string>
     <string name="file_migration_failed_not_writable">No se ha podido escribir el archivo de destino</string>
@@ -620,7 +620,7 @@
     <string name="prefs_remove_e2e">Eliminar cifrado localmente</string>
     <string name="prefs_setup_e2e">Configurar el cifrado de extremo a extremo</string>
     <string name="prefs_show_ecosystem_apps">Mostrar conmutador de apps</string>
-    <string name="prefs_show_ecosystem_apps_summary">Sugerencias de Nextcloud app en encabezado de navegación</string>
+    <string name="prefs_show_ecosystem_apps_summary">Sugerencias de Gatxan Cloud app en encabezado de navegación</string>
     <string name="prefs_show_hidden_files">Mostrar archivos ocultos</string>
     <string name="prefs_sourcecode">Obtener el código fuente</string>
     <string name="prefs_storage_path">Carpeta de almacenamiento de datos</string>
